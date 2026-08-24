@@ -5,15 +5,8 @@ Desenvolvedor Full Stack PHP Pleno, com mais de 7 anos construindo sistemas web 
 ## Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/LucasAdriano23">
-    <img src="https://img.shields.io/badge/GitHub-LucasAdriano23-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://lucasadriano.com">
-    <img src="https://img.shields.io/badge/Meu%20Site-FF0000?style=for-the-badge&logo=googlechrome&logoColor=black" />
-  </a>
-  <a href="https://www.linkedin.com/in/lucasadriano23">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://github.com/LucasAdriano23"><img src="https://img.shields.io/badge/GitHub-LucasAdriano23-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
+  <a href="https://lucasadriano.com"><img src="https://img.shields.io/badge/Meu%20Site-FF0000?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>&nbsp;<a href="https://www.linkedin.com/in/lucasadriano23"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;<a href="https://discord.gg/S8aWFjNdD"><img src="https://img.shields.io/badge/Discord-Entrar-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 ## O que eu uso no dia a dia
