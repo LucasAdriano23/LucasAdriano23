@@ -1,6 +1,6 @@
 # Olá, eu sou o Lucas 👋
 
-Desenvolvedor Full Stack PHP Pleno, com mais de 7 anos construindo sistemas web em produção. Já trabalhei no ramo de logística, jurídico e agropecuária, trabalhando com PHP em sistemas legados, Laravel e Vue.js com MVC e Service Layer, docker, boas práticas de programação e testes unitários. Atualmente estudo Engenharia de IA pela beer and code.
+Desenvolvedor Full Stack PHP Pleno, com mais de 7 anos construindo sistemas web em produção. Já trabalhei no ramo de logística, jurídico e agropecuária, trabalhando com PHP em sistemas legados, Laravel e Vue.js com MVC e Service Layer, docker, boas práticas de programação e testes unitários.
 
 ## Onde me encontrar
 
