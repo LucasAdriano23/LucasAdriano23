@@ -2,6 +2,8 @@
 
 Desenvolvedor Full Stack PHP Pleno, com mais de 7 anos construindo sistemas web em produção. Já trabalhei no ramo de logística, jurídico e agropecuária, trabalhando com PHP em sistemas legados, Laravel e Vue.js com MVC e Service Layer, docker, boas práticas de programação e testes unitários. Atualmente estudo Engenharia de IA pela beer and code.
 
+## Onde me encontrar
+
 <p align="left">
   <a href="https://github.com/LucasAdriano23">
     <img src="https://img.shields.io/badge/GitHub-LucasAdriano23-181717?style=for-the-badge&logo=github&logoColor=white" />
