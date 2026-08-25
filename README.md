@@ -58,8 +58,8 @@ Atualmente estudo Engenharia de IA na **Beer and Code**, a maior comunidade de L
 
 ## Github Status
 <p align="left">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=LucasAdriano23&show_icons=true&theme=dracula&locale=pt-br" />
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LucasAdriano23&theme=dracula&locale=pt-br" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=LucasAdriano23&show_icons=true&theme=dracula&locale=pt-br&include_all_commits=true" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LucasAdriano23&theme=dracula&locale=pt-br&include_all_commits=true" />
 </p>
 
 ## Contato
