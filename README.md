@@ -56,12 +56,6 @@ Bacharel em Sistemas de Informação pela Uniube.
 
 Atualmente estudo Engenharia de IA na **Beer and Code**, a maior comunidade de Laravel do Brasil, pra entender melhor como IA está sendo aplicada no desenvolvimento de sistemas modernos.
 
-## Github Status
-<p align="left">
-  <img height="200em" src="https://github-stats-extended.vercel.app/api?username=LucasAdriano23&show_icons=true&theme=dracula&locale=pt-br&include_all_commits=true" />
-  <img height="200em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LucasAdriano23&theme=dracula&locale=pt-br&include_all_commits=true" />
-</p>
-
 ## Contato
 
 📧 contato@lucasadriano.com
